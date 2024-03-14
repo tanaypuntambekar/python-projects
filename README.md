@@ -1,5 +1,6 @@
 # python-projects
 This repository contains my Python Exploratory Data Analysis projects.
+
 1 Diwali Sales Data :
 The main objective of this project was to enhance customer experience by analyzing customer data.
 Firstly we imported the raw data set from a csv file and then perfomed exploratory data analysis using python libraries Panas, Numpy, Matplotlib.
